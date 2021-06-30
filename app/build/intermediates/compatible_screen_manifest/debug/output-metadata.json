@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "stmik_amik.bandung.si20406_proyek2",
+  "variantName": "debug",
+  "elements": []
+}

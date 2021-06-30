@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592702324661",
+    "project_id": "si20406-proyek2",
+    "storage_bucket": "si20406-proyek2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592702324661:android:ac5151caf3e7aadf27a3fc",
+        "android_client_info": {
+          "package_name": "stmik_amik.bandung.si20406_proyek2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592702324661-jncofk4at8u993ollj8boirrmt5tj0h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1qUXvoDNNTgY5iSX2PLle6DJPkm29pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592702324661-jncofk4at8u993ollj8boirrmt5tj0h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
