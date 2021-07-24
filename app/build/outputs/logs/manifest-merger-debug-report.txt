@@ -126,7 +126,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ka
 	android:supportsRtl
 		ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:14:9-40
 	android:roundIcon
 		ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:15:9-40
 	android:icon
@@ -150,7 +150,7 @@ ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\And
 	android:name
 		ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:23:27-74
 activity#stmik_amik.bandung.si20406_proyek2.LoginActivity
-ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:26:9-60
+ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:26:9-50
 	android:name
 		ADDED from C:\Users\kafin\AndroidStudioProjects\SI20406-Proyek2\app\src\main\AndroidManifest.xml:26:19-48
 activity#stmik_amik.bandung.si20406_proyek2.RegisterActivity

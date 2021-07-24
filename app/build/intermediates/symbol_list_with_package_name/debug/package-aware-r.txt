@@ -1704,6 +1704,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_person_outline_black_24dp
+drawable logo
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1810,7 +1811,6 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
-id activity_main
 id add
 id adjust_height
 id adjust_width
@@ -1953,6 +1953,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id image1
 id info
 id input_layout
 id invisible
@@ -1975,7 +1976,6 @@ id listMode
 id list_item
 id list_name
 id list_npm
-id logo
 id masked
 id material_clock_display
 id material_clock_face
@@ -2157,6 +2157,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon

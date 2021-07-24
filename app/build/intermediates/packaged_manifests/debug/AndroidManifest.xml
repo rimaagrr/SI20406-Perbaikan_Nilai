@@ -22,7 +22,7 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:icon="@mipmap/tcs"
-        android:label="@string/app_name"
+        android:label="Perbaikan Nilai"
         android:roundIcon="@mipmap/tcs"
         android:supportsRtl="true"
         android:testOnly="true"
