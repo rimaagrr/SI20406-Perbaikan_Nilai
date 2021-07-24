@@ -25,7 +25,6 @@
         android:label="Perbaikan Nilai"
         android:roundIcon="@mipmap/tcs"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity android:name="stmik_amik.bandung.si20406_proyek2.Splash" >
             <intent-filter>
